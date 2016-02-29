@@ -6,3 +6,8 @@ for i in from..to
   sum += i
 end
 puts sum
+
+a = "test"
+puts "test" + "abc"
+
+puts "nuk" + "/result_00" + 1.to_s + "/result.html" || nil
